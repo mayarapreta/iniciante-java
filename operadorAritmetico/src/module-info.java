@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mayar
+ *
+ */
+module operadorAritmetico {
+}
